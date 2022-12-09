@@ -1,5 +1,5 @@
 # SinusBotTalk
-Small script to use SinusBot's TTS with few extra options
+Small script to use SinusBot's TTS with a few extra options.
 
 
 ### Configuration:
